@@ -1,0 +1,16 @@
+node_modules/
+*.swp
+**/.DS_Store
+.settings
+**/.vs
+**/.vscode
+!**/.vscode/tasks.json
+.idea
+yarn.lock
+yarn-error.log
+.parallelperf.*
+.failed-tests
+TEST-results.xml
+package-lock.json
+js/
+dist/
